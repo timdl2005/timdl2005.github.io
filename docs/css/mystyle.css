@@ -7,7 +7,7 @@ p
   color: red;
   text-align: left;
 }
-<h1 style="color:Tomato;</h1>
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -29,6 +29,11 @@ li a {
 li a:hover {
   background-color: #111;
 }
+h1 {
+  color: blue;
+  text-align: center;
+}
+
 </style>
 </head>
 </html>
