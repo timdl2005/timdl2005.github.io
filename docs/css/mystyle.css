@@ -2,11 +2,11 @@
 <html>
 <head>
 <style>
-* {
+p
+ {
+  color: red;
   text-align: left;
-  color: blue;
 }
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -30,7 +30,4 @@ li a:hover {
 }
 </style>
 </head>
-<body>
-
-</body>
 </html>
