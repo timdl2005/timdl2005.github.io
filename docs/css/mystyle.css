@@ -24,14 +24,14 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
 h1 {
   color: blue;
   text-align: left;
 }
+
 p
  {
-  color: yellow;
-  text-align: left;
   font-family: verdana;
   font-size: 20px;
 }
