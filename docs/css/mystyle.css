@@ -13,6 +13,7 @@ ul {
 li {
   float: left;
 }
+
 li a {
   display: block;
   color: white;
@@ -20,27 +21,19 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+
 li a:hover {
   background-color: #111;
 }
 </style>
 </head>
-<body> {
-  background-color: lightblue;
-  font-family:verdana
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
+<body>
 
 <ul>
-  <li><a class="active" href="../index.html">Home</a></li>
-  <li><a href="../P1.html">Missie</a></li>
-  <li><a href="../P2.html">Soorten</a></li>
-  <li><a href="../P3.html">Evenementen</a></li>
-  <li><a href="../P4.html">Contact</a></li>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
 </ul>
 
 </body>
