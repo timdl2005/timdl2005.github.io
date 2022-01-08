@@ -2,10 +2,9 @@
 <html>
 <head>
 <style>
-
-p {
-  color: red;
-  text-align: center;
+* {
+  text-align: left;
+  color: blue;
 }
 
 ul {
