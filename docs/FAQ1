@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FAQ antwoord 1</title>
+  <link rel="stylesheet" href="css/mystyle.css">
+</head>
+<body>
+  <ul>
+    <li><a class="active" href="index.html">Home</a></li>
+    <li><a href="P1.html">Geschiedenis</a></li>
+    <li><a href="P2.html">Soorten</a></li>
+    <li><a href="P3.html">FAQ</a></li>
+    <li><a href="P4.html">Contact</a></li>
+      </ul>
+      <br>
+
+<h1>FAQ antwoord 1</h1>
+<p>In 2005 rolt onze allereerste melkchocoladereep van de band. We kiezen ervoor om deze te verpakken in een rode wikkel,   <br>
+omdat we deze het beste vinden passen bij onze alarmerende boodschap. Al snel blijkt er ook vraag te zijn naar een pure variant,  <br>
+ dus geven we die ’n blauwe jas. Inmiddels is onze familie flink uitgebreid en hebben we:  <br>
+- 12 Classic-repen   <br>
+- 4 Exclusive-repen  <br>
+- elk jaar 3 Limited Editions  <br>
+- onze seizoensrepen zoals onze extra grote paaseitjes, de paasreep, het hele alfabet in chocoladeletters - en meerdere smaken en de kerstreep.</p>
+
+
+</head>
+</body>
