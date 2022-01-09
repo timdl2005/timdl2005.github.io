@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FAQ antwoord 3</title>
+  <link rel="stylesheet" href="css/mystyle.css">
+</head>
+<body>
+  <ul>
+    <li><a class="active" href="index.html">Home</a></li>
+    <li><a href="P1.html">Geschiedenis</a></li>
+    <li><a href="P2.html">Soorten</a></li>
+    <li><a href="P3.html">FAQ</a></li>
+    <li><a href="P4.html">Contact</a></li>
+      </ul>
+      <br>
+
+<h1>FAQ antwoord 1</h1>
+<p>Classics-regenboog bestaat nu uit 12 smaken</p>
+
+
+</head>
+</body>

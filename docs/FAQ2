@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FAQ antwoord 2</title>
+  <link rel="stylesheet" href="css/mystyle.css">
+</head>
+<body>
+  <ul>
+    <li><a class="active" href="index.html">Home</a></li>
+    <li><a href="P1.html">Geschiedenis</a></li>
+    <li><a href="P2.html">Soorten</a></li>
+    <li><a href="P3.html">FAQ</a></li>
+    <li><a href="P4.html">Contact</a></li>
+      </ul>
+      <br>
+
+<h1>FAQ antwoord 1</h1>
+<p>Wij vonden het maar raar dat alle chocoladerepen verdeeld zijn in gelijke stukjes,<br>
+   terwijl het er in de cacao-wereld helemaal niet zo eerlijk aan toe gaat! <br>
+   Met de oneerlijke verdeling van onze 180 grams repen willen we alle chocofans op smakelijke<br>
+    wijze duidelijk maken dat de inkomsten in de chocoladewereld ongelijk verdeeld zijn.<br>
+<br>
+Misschien is het je opgevallen dat de onderkant van onze reep de evenaar voor moet stellen.<br>
+ De stukjes daarboven vormen de Golf van Guinee. Van links naar rechts zie je Ivoorkust<br>
+ , Ghana, Togo en Benin (die hebben we heel politiek incorrect bij elkaar moeten trekken,<br>
+  omdat er anders geen hazelnoot in past), Nigeria en een stukje Kameroen.</p>
+
+
+</head>
+</body>
